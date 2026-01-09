@@ -175,6 +175,8 @@ class Person(
 
 ### Тестирование
 
+Файл `src/main/kotlin/Calculator.kt`:
+
 ```kotlin
 object Calculator {
     fun add(a: Int, b: Int) = a + b
@@ -186,6 +188,8 @@ object Calculator {
     fun subtract(a: Int, b: Int) = a - b
 }
 ```
+
+Файл `src/test/kotlin/CalculatorTest.kt`:
 
 ```kotlin
 class CalculatorTest {
