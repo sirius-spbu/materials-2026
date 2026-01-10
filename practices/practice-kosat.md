@@ -1,6 +1,6 @@
 # Использование KoSAT
 
-- Необходима зависимость на [KoSAT](https://github.com/UnitTestBot/kosat):
+- Необходима зависимость на [KoSAT](https://github.com/UnitTestBot/kosat). Добавить в `build.gradle.kts`:
 
 ```
 repositories {
