@@ -10,7 +10,7 @@ repositories {
 
 dependencies {
     ...
-    implementation("com.github.UnitTestBot.kosat:kosat:main-SNAPSHOT")
+    implementation("com.github.UnitTestBot.kosat:kosat:98a4c90")
 }
 ```
 
