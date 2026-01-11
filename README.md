@@ -4,8 +4,8 @@
 
 - [0-Kotlin](practices/practice-kotlin.md)
 - [1-KoSAT](practices/practice-kosat.md)
-<!-- - [2-KSMT](practice/practice-ksmt.md)
-- [3-antlr](practice/practice-antlr.md) -->
+- [2-KSMT](practices/practice-ksmt.md)
+<!-- - [3-antlr](practices/practice-antlr.md) -->
 
 ## Демо
 
