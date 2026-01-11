@@ -14,10 +14,10 @@ dependencies {
     ...
     
     // ksmt core
-    implementation("com.github.UnitTestBot.ksmt:ksmt-core:0.3.1")
+    implementation("io.ksmt:ksmt-core:0.6.4")
 
     // ksmt z3 solver
-    implementation("com.github.UnitTestBot.ksmt:ksmt-z3:0.3.1")
+    implementation("io.ksmt:ksmt-z3:0.6.4")
 }
     
 ```
