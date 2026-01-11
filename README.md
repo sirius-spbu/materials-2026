@@ -9,6 +9,7 @@
 
 ## Демо
 
+- [KSMT](demos/demo-ksmt.kt)
 
 ## Задания
 
