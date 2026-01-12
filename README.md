@@ -15,7 +15,7 @@
 
 1. https://classroom.github.com/a/MFKh_MCd
 2. https://classroom.github.com/a/45k5zgG0
-3. https://classroom.github.com/a/iMRUep-J
+3. https://classroom.github.com/a/9K2p4kWH
 
 Что делать?
 - перейти по ссылке, принять задание
